@@ -18,7 +18,7 @@ body a{
 }
 /*--background--*/
 .agileits-banner-info{
-    background: url(../images/2.jpg) no-repeat 0px 0px;
+    background: url(../images/Git-rename-branch.jpg) no-repeat 0px 0px;
     background-size: cover;
 }
 .banner-dot {
@@ -48,7 +48,7 @@ body a{
     letter-spacing: 3px;
     margin: 0;
     font-family: 'Lato', sans-serif;
-    
+
     font-family: 'Lobster Two', cursive;
     text-decoration: none;
     font-weight: 700;
@@ -212,7 +212,7 @@ nav {
     -o-transition: 0.5s all;
     -ms-transition: 0.5s all;
     -webkit-appearance: none;
-}   
+}
 .newsletter input[type="submit"]:hover {
     background:none;
 	border: solid 1px #FFFFFF;
@@ -314,7 +314,7 @@ nav {
 }
 .team-info{
     position: relative;
-    overflow: hidden;	
+    overflow: hidden;
 }
 .team-info img{
     width: 100%;
@@ -424,7 +424,7 @@ nav {
 }
 .services-top-grid i.fa.fa-user,.services-top-grid i.fa.fa-road,.services-top-grid i.fa.fa-star,.services-top-grid i.fa.fa-cog{
     color: #CAAD00;
-    font-size: 2em;	
+    font-size: 2em;
 }
 .services-top-grid h4{
 	color: #000000;
@@ -507,7 +507,7 @@ nav {
 }
 .styled-input.agile-styled-input-top {
     margin-top: 0;
-} 
+}
 .contact input[type="text"],.contact input[type="email"],.contact textarea{
     font-size: .9em;
     color: #ffffff;
@@ -519,17 +519,17 @@ nav {
     -webkit-appearance: none;
     outline: none;
 }
-.contact textarea { 
+.contact textarea {
 	min-height: 150px;
     resize: none;
-} 
+}
 /*-- input-effect --*/
 .styled-input input:focus ~ label, .styled-input input:valid ~ label,.styled-input textarea:focus ~ label ,.styled-input textarea:valid ~ label{
     font-size: .9em;
     color: #CAAD00;
     top: -1.3em;
     -webkit-transition: all 0.125s;
-	-moz-transition: all 0.125s; 
+	-moz-transition: all 0.125s;
 	-o-transition: all 0.125s;
 	-ms-transition: all 0.125s;
     transition: all 0.125s;
@@ -575,18 +575,18 @@ nav {
     -moz-transition: all 0.125s;
     transition: all 0.125s;
 }
-.styled-input textarea ~ span { 
+.styled-input textarea ~ span {
     bottom: 5px !important;
 }
-.styled-input input:focus.styled-input textarea:focus { 
-	outline: 0; 
-} 
+.styled-input input:focus.styled-input textarea:focus {
+	outline: 0;
+}
 .styled-input input:focus ~ span,.styled-input textarea:focus ~ span {
 	width: 100%;
 	-webkit-transition: all 0.075s;
-	-moz-transition: all 0.075s;  
-	transition: all 0.075s; 
-} 
+	-moz-transition: all 0.075s;
+	transition: all 0.075s;
+}
 /*-- //input-effect --*/
 .contact input[type="submit"] {
     outline: none;
@@ -636,7 +636,7 @@ nav {
 	bottom: 20px;
 	right: 2%;
 	overflow: hidden;
-	z-index: 999; 
+	z-index: 999;
 	width: 40px;
 	height: 40px;
 	border: none;
