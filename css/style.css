@@ -40,6 +40,9 @@ body a{
 	text-align: center;
     padding: 11em 0 0 0;
 }
+.agileinfo-social-grids .gif-banner{
+  width: 200px;
+}
 .w3l-banner-left h1 {
     margin: 0;
 }
